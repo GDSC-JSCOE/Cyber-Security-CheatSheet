@@ -8,5 +8,5 @@ This is the official repository of GDSC JSCOE Cyber Security Resources. This wil
 - Basics of OSINT by Virtual Cyber Labs - https://youtu.be/r-SsuZQHMoc
 ## Authors | Contributors 
 
-- [@cyber-urvesh](https://github.com/cyber-urvesh)
+- [@cyber-urvesh](https://github.com/cyber-urvesh) https://gdsc.community.dev/u/mjx6uq/ 
 
