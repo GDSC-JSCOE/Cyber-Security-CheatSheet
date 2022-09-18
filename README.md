@@ -11,3 +11,6 @@ This is the official repository of GDSC JSCOE Cyber Security Resources. This wil
 - [@cyber-urvesh](https://github.com/cyber-urvesh)
  GDSC Profile - https://gdsc.community.dev/u/mjx6uq/ 
 
+## Badges 
+
+[![OPEN PR](https://badgen.net/github/open-prs/GDSC-JSCOE/Cyber-Security-CheatSheet)](https://badgen.net/github/open-prs/GDSC-JSCOE/Cyber-Security-CheatSheet)
