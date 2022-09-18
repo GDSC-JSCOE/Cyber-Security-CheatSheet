@@ -6,6 +6,9 @@ This is the official repository of GDSC JSCOE Cyber Security Resources. This wil
 - Professor Messer Networking Fundamentals - https://www.youtube.com/watch?v=SnJf79WL_ZE 
 
 - Basics of OSINT by Virtual Cyber Labs - https://youtu.be/r-SsuZQHMoc
+
+- Types of Hackers - https://www.youtube.com/watch?v=Q0F-pv-n_lc
+
 ## Authors | Contributors 
 
 - [@cyber-urvesh](https://github.com/cyber-urvesh)
