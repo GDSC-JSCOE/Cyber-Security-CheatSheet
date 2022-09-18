@@ -12,7 +12,8 @@ This is the official repository of GDSC JSCOE Cyber Security Resources. This wil
 ## Authors | Contributors 
 
 - [@cyber-urvesh](https://github.com/cyber-urvesh)
- GDSC Profile - https://gdsc.community.dev/u/mjx6uq/ 
+
+- [@preshitadighe](https://github.com/preshitadighe)
 
 ## Badges 
 
