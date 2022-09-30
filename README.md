@@ -3,11 +3,11 @@ This is the official repository of GDSC JSCOE Cyber Security Resources. This wil
 
 ## Fundamentals - YouTube videos 
 
-- Professor Messer Networking Fundamentals - https://www.youtube.com/watch?v=SnJf79WL_ZE 
-
-- Basics of OSINT by Virtual Cyber Labs - https://youtu.be/r-SsuZQHMoc
-
-- Types of Hackers - https://www.youtube.com/watch?v=Q0F-pv-n_lc
+Nahamsec : https://www.youtube.com/c/Nahamsec
+STOK: https://www.youtube.com/c/STOKfredrik/videos
+Hacktify: https://www.youtube.com/channel/UCS82DNnKOhXHcGKxGzQvNSQ
+HackerSploit: https://youtube.com/c/HackerSploit
+Tib3rius: https://www.youtube.com/channel/UCs6dtu4e0JL-N4hVszsFpBw
 
 ## Authors | Contributors 
 
