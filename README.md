@@ -40,6 +40,7 @@ Red Team Automation (RTA) - RTA provides a framework of scripts designed to allo
 RedHunt-OS - Virtual machine for adversary emulation and threat hunting.
 All-In-One Tools
 
+## Programming Books: https://books.goalkicker.com/
 
 ## Authors | Contributors 
 
